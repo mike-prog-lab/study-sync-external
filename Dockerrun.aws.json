@@ -1,5 +1,4 @@
 {
-    // If you run multiple containers, then you do version 2
     "AWSEBDockerrunVersion": "1", 
     "Image": {
         "name": "392880797936.dkr.ecr.us-east-1.amazonaws.com/study-sync:latest"
